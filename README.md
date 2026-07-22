@@ -2,9 +2,6 @@
 
 A powerful, intelligent inventory and sales management platform designed to transform traditional retail operations into a data-driven decision-support system. Built with Java Swing and MySQL, this system combines real-time inventory tracking with advanced predictive analytics.
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Java](https://img.shields.io/badge/java-11%2B-orange.svg)
-![MySQL](https://img.shields.io/badge/mysql-8.0%2B-blue.svg)
 
 ## 🎯 Features
 
@@ -236,15 +233,7 @@ User Login:
 6. Export data to Excel
 7. Verify low-stock alerts trigger correctly
 
-## 🤝 Contributing
 
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 ### Development Guidelines
 - Follow Java naming conventions
@@ -263,14 +252,12 @@ Contributions are welcome! Please follow these steps:
 - [ ] Supplier management module
 - [ ] Customer segmentation analytics
 
-## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👨‍💻 Author
 
 **Dhruv Yadav**
-- Enrollment: 105252000342
+- Enrollment: 00716404525
 - Program: M.C.A. (Software Engineering)
 - Institution: Guru Gobind Singh Indraprastha University (GGSIPU), New Delhi
 
@@ -284,22 +271,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Apache POI Documentation](https://poi.apache.org/)
 - [BCrypt Security](https://www.mindrot.org/projects/jBCrypt/)
 
-## 📞 Support
 
-For issues, questions, or suggestions:
-1. Check existing [GitHub Issues](../../issues)
-2. Create a new issue with detailed description
-3. Include screenshots or error logs if applicable
-4. Tag with appropriate labels (bug, enhancement, documentation)
-
-## 🙏 Acknowledgments
-
-- GGSIPU for academic guidance and resources
-- Apache POI for Excel export functionality
-- BCrypt library for secure password hashing
-- MySQL community for database management tools
-
----
-
-**Last Updated**: October 28, 2025  
-**Status**: Active Development
