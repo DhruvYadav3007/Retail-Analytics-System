@@ -3,9 +3,16 @@
 A powerful, intelligent inventory and sales management platform designed to transform traditional retail operations into a data-driven decision-support system. Built with Java Swing and MySQL, this system combines real-time inventory tracking with advanced predictive analytics.
 
 <p align="center">
-  <img src="output/AdminDashboard.png" alt="Retail Analytical System Dashboard" width="900">
+  <img src="output/AdminDashboard.png" alt="Admin Dashboard" width="800">
 </p>
 
+<p align="center">
+  <img src="output/history.png" alt="Sales and Transaction History" width="800">
+</p>
+
+<p align="center">
+  <img src="output/predict.png" alt="Prediction and Analytics" width="800">
+</p>
 
 ## 🎯 Features
 
