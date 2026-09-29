@@ -7,7 +7,7 @@ A powerful, intelligent inventory and sales management platform designed to tran
 </p>
 
 <p align="center">
-  <img src="output/history.png" alt="Sales and Transaction History" width="800">
+  <img src="output/History.png" alt="Sales and Transaction History" width="800">
 </p>
 
 <p align="center">
